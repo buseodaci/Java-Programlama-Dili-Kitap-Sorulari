@@ -5,7 +5,7 @@ package com.company;
  * ve bu TEHLİKELİDİR.Çünkü çevrilmeye çalışılan daha özellikli tipe doğru çevrim esnasında sorun çıkma ihtimali
  * yüksektir.
  * Downcasting yaparken hangi tipe doğru çevrim yapılacağı belirtilmek zorundadır.
- * Upcastingde böyle bir kural yoktu.
+ * Upcastingde böyle bir kural yoktur.
  */
 class XModel {
     public void sesAc() {
